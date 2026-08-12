@@ -75,6 +75,27 @@ Based on SHAP analysis:
 - Python 3.8+
 - Jupyter Notebook / JupyterLab
 
+---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Data Source
+
+The dataset is included in the repository under `data/raw/`.
+- **Source**: IBM Telco Customer Churn Dataset (Kaggle)
+- **Download URL**: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- **License**: CC0 (Public Domain)
+
+---
+
+## Acknowledgments
+
+- **IBM** for providing the Telco Customer Churn dataset
+- **Kaggle** for hosting the dataset
+- **My Instructor and Mentors** for their guidance and support
+- **The Open Source Community** for the excellent libraries used in this project
+
 ### Setup
 ```bash
 # 1. Clone the repository
@@ -90,26 +111,3 @@ pip install -r requirements.txt
 
 # 4. Run notebooks in order
 jupyter notebook
-
-
-## Data Source
-
-The dataset is included in the repository under `data/raw/`.
-- **Source**: IBM Telco Customer Churn Dataset (Kaggle)
-- **Download URL**: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-- **License**: CC0 (Public Domain)
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- **IBM** for providing the Telco Customer Churn dataset
-- **Kaggle** for hosting the dataset
-- **My Instructor and Mentors** for their guidance and support
-- **The Open Source Community** for the excellent libraries used in this project
